@@ -1,0 +1,13 @@
+C:\Users\ACER\Desktop\Aprendendo-While\bin\Debug\netcoreapp3.1\Aprendendo-While.exe
+C:\Users\ACER\Desktop\Aprendendo-While\bin\Debug\netcoreapp3.1\Aprendendo-While.deps.json
+C:\Users\ACER\Desktop\Aprendendo-While\bin\Debug\netcoreapp3.1\Aprendendo-While.runtimeconfig.json
+C:\Users\ACER\Desktop\Aprendendo-While\bin\Debug\netcoreapp3.1\Aprendendo-While.runtimeconfig.dev.json
+C:\Users\ACER\Desktop\Aprendendo-While\bin\Debug\netcoreapp3.1\Aprendendo-While.dll
+C:\Users\ACER\Desktop\Aprendendo-While\bin\Debug\netcoreapp3.1\Aprendendo-While.pdb
+C:\Users\ACER\Desktop\Aprendendo-While\obj\Debug\netcoreapp3.1\Aprendendo-While.csprojAssemblyReference.cache
+C:\Users\ACER\Desktop\Aprendendo-While\obj\Debug\netcoreapp3.1\Aprendendo-While.AssemblyInfoInputs.cache
+C:\Users\ACER\Desktop\Aprendendo-While\obj\Debug\netcoreapp3.1\Aprendendo-While.AssemblyInfo.cs
+C:\Users\ACER\Desktop\Aprendendo-While\obj\Debug\netcoreapp3.1\Aprendendo-While.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\Aprendendo-While\obj\Debug\netcoreapp3.1\Aprendendo-While.dll
+C:\Users\ACER\Desktop\Aprendendo-While\obj\Debug\netcoreapp3.1\Aprendendo-While.pdb
+C:\Users\ACER\Desktop\Aprendendo-While\obj\Debug\netcoreapp3.1\Aprendendo-While.genruntimeconfig.cache
